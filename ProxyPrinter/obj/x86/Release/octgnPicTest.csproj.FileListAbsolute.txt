@@ -1,0 +1,27 @@
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\octgnPicTest.exe
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\octgnPicTest.pdb
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\Octgn.Data.dll
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\VistaDB.NET20.dll
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Chooser.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Form1.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Properties.Resources.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.exe
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.pdb
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\Octgn.Data.dll
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\VistaDB.NET20.dll
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Chooser.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Form1.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.GameSelection.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.Properties.Resources.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.CardSelection.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\Proxy Printer.exe
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Release\Proxy Printer.pdb
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\octgnPicTest.DeckLoader.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\Proxy Printer.exe
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Release\Proxy Printer.pdb

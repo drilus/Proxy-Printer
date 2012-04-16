@@ -1,0 +1,31 @@
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Form1.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Properties.Resources.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Octgn.Data.dll
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Chooser.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.GameSelection.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.CardSelection.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.DeckLoader.resources
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Proxy Printer.exe
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Proxy Printer.pdb
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\Proxy Printer.exe
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\Proxy Printer.pdb
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.CardSelection.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Chooser.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.DeckLoader.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Form1.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.GameSelection.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\octgnPicTest.Properties.Resources.resources
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Proxy Printer.exe
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Proxy Printer.pdb
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Octgn.Data.dll
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\Proxy Printer.exe
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\obj\x86\Debug\Proxy Printer.pdb
+C:\Users\magus\Documents\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kent.BUILDERSMETAL\Desktop\My Dropbox\Source Code\OCTGN Picture Test\octgnPicTest\octgnPicTest\bin\Debug\Polenter.SharpSerializer.dll
