@@ -21,30 +21,6 @@ namespace octgnPicTest
         public List<ProxyList> myList { get; set; }
         public GamesRepository proxy = new GamesRepository();
 
-        public class ProxyList
-        {
-            private string _GUID;
-            private string _Quantity;
-
-            public ProxyList(string GUID, string Quantity)
-            {
-                _GUID = GUID;
-                _Quantity = Quantity;
-            }
-
-            public string GUID
-            {
-                get { return _GUID; }
-                set { _GUID = value; }
-            }
-
-            public string Quantity
-            {
-                get { return _Quantity; }
-                set { _Quantity = value; }
-            }
-        }
-
         public Main()
         {
             InitializeComponent();
@@ -159,8 +135,8 @@ namespace octgnPicTest
                     // Retrieve Card Image                
                     BitmapImage img = new BitmapImage();
                     System.Windows.Controls.Image CardImage = new System.Windows.Controls.Image();
-                    Uri picture = img != null ? CardModel.GetPictureUri(mygame,
-                        mygame.GetCardById(card).Set.Id, mygame.GetCardById(card).ImageUri) : mygame.GetCardBackUri();
+                    Uri picture = CardModel.GetPictureUri(mygame, mygame.GetCardById(card).Set.Id, 
+                        mygame.GetCardById(card).ImageUri) ?? mygame.GetCardBackUri();
                     pictureBox1.Image = SourceConvert.BitmapFromUri(picture);
                     Uri alternate = new Uri(picture.ToString().Replace(".jpg", ".b.jpg"));
                     try
@@ -322,7 +298,7 @@ namespace octgnPicTest
                 GamesRepository proxy = new GamesRepository();
                 Game mygame = proxy.Games[gameindex];
 
-                foreach (DeckLoader.ProxyList myList in LoadDeck.guidList)
+                foreach (ProxyList myList in LoadDeck.guidList)
                 {
                     // Resize image for mock layout
                     Size mockSize = new Size();
@@ -341,8 +317,9 @@ namespace octgnPicTest
                         // Retrieve Card Image  
                         BitmapImage img = new BitmapImage();
                         System.Windows.Controls.Image CardImage = new System.Windows.Controls.Image();
-                        ProxyImage.Image = SourceConvert.BitmapFromUri(img != null ? CardModel.GetPictureUri(mygame,
-                            mygame.GetCardById(CardID).Set.Id, mygame.GetCardById(CardID).ImageUri) : mygame.GetCardBackUri());
+                        ProxyImage.Image = SourceConvert.BitmapFromUri(CardModel.GetPictureUri(mygame,
+                            mygame.GetCardById(CardID).Set.Id, mygame.GetCardById(CardID).ImageUri) 
+                            ?? mygame.GetCardBackUri());
                     }
                     catch (Exception ex)
                     {
